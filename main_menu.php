@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title>Working page</title>
+  <title>Main Menu</title>
   <LINK href="styles.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -12,11 +12,11 @@
 
 
 <!-- Change this code here by copy and pasting your template on line 15 -->
-<h1>Welcome to Wardrobe project!</h1>
+<h1>This is the second page</h1>
 
 <img src="images/wardrobe-drawing.jpg" id="octocat" />
 
-<a href="main_menu.php">Click Here to Begin!</a>
+<a href="main-page.php">Click Here to upload.</a>
 
 </body>
 </html>
